@@ -37,8 +37,8 @@ Build a stronger, tighter core at home with minimal equipment, while supporting 
 **Tempo:** slow, controlled  
 **Common mistakes:** lower back arching, rushing reps.
 
-**Reference image:**  
-- https://commons.wikimedia.org/wiki/File:Dead_Bug_Exercise.png *(Wikimedia Commons)*
+**Guide image:**  
+![Dead Bug guide](./home_core_training_guide_images/dead_bug.svg)
 
 ---
 
@@ -54,8 +54,8 @@ Build a stronger, tighter core at home with minimal equipment, while supporting 
 **Sets/Reps:** 3 x 10–15  
 **Common mistakes:** using momentum, dropping legs too fast.
 
-**Reference image:**  
-- https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-70m-bench-reverse-crunch-m1-square-600x600.jpg *(Bodybuilding.com exercise library)*
+**Guide image:**  
+![Bench Reverse Crunch guide](./home_core_training_guide_images/bench_reverse_crunch.svg)
 
 ---
 
@@ -71,8 +71,8 @@ Build a stronger, tighter core at home with minimal equipment, while supporting 
 **Sets/Reps:** 3 x 16–24 total reps  
 **Common mistakes:** swinging too fast, only moving arms (not torso).
 
-**Reference image:**  
-- https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-82s-russian-twist-m1-square-600x600.jpg *(Bodybuilding.com exercise library)*
+**Guide image:**  
+![Russian Twist guide](./home_core_training_guide_images/russian_twist.svg)
 
 ---
 
@@ -88,8 +88,8 @@ Build a stronger, tighter core at home with minimal equipment, while supporting 
 **Sets/Reps:** 3 x 10–15 per side  
 **Common mistakes:** twisting instead of side bending, going too heavy.
 
-**Reference image:**  
-- https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-61d-one-arm-dumbbell-side-bend-m1-square-600x600.jpg *(Bodybuilding.com exercise library)*
+**Guide image:**  
+![Dumbbell Side Bend guide](./home_core_training_guide_images/dumbbell_side_bend.svg)
 
 ---
 
