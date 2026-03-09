@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
-  <rect width="100%" height="100%" fill="#f8fafc"/>
-  <text x="40" y="60" font-size="36" font-family="Arial" fill="#0f172a">Dumbbell Side Bend</text>
-  <line x1="140" y1="390" x2="520" y2="390" stroke="#64748b" stroke-width="6"/>
-  <circle cx="300" cy="170" r="24" fill="none" stroke="#111827" stroke-width="6"/>
-  <line x1="300" y1="194" x2="300" y2="300" stroke="#111827" stroke-width="8"/>
-  <line x1="300" y1="230" x2="250" y2="290" stroke="#111827" stroke-width="8"/>
-  <line x1="300" y1="230" x2="350" y2="290" stroke="#111827" stroke-width="8"/>
-  <line x1="300" y1="300" x2="270" y2="380" stroke="#111827" stroke-width="8"/>
-  <line x1="300" y1="300" x2="340" y2="380" stroke="#111827" stroke-width="8"/>
-  <circle cx="350" cy="295" r="14" fill="#0ea5e9"/>
-  <path d="M230 180 Q190 240 230 300" fill="none" stroke="#2563eb" stroke-width="6" marker-end="url(#arr)"/>
-  <defs><marker id="arr" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><polygon points="0 0, 6 3, 0 6" fill="#2563eb"/></marker></defs>
-  <text x="560" y="180" font-size="24" font-family="Arial" fill="#0f172a">1. Stand tall with one dumbbell</text>
-  <text x="560" y="220" font-size="24" font-family="Arial" fill="#0f172a">2. Bend sideways slowly</text>
-  <text x="560" y="260" font-size="24" font-family="Arial" fill="#0f172a">3. Return to neutral; switch sides</text>
-  <text x="560" y="300" font-size="24" font-family="Arial" fill="#b91c1c">Avoid: twisting torso</text>
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='600' viewBox='0 0 1000 600'>
+  <rect width='100%' height='100%' fill='#f1f5f9'/>
+  <text x='40' y='55' font-family='Arial' font-size='34' fill='#0f172a'>Dumbbell Side Bend (human depiction)</text>
+  <rect x='90' y='440' width='520' height='16' rx='8' fill='#94a3b8'/>
+  <circle cx='320' cy='170' r='28' fill='#f2c7a3'/>
+  <path d='M300 205 Q330 255 322 360 Q318 388 300 405 L270 398 Q292 376 293 348 Q295 272 270 228 Z' fill='#1e293b'/>
+  <rect x='260' y='238' width='70' height='24' rx='12' fill='#f2c7a3' transform='rotate(-18 260 238)'/>
+  <rect x='320' y='255' width='88' height='24' rx='12' fill='#f2c7a3' transform='rotate(62 320 255)'/>
+  <circle cx='395' cy='320' r='16' fill='#0ea5e9'/>
+  <rect x='286' y='396' width='34' height='56' rx='10' fill='#334155'/>
+  <rect x='252' y='396' width='34' height='56' rx='10' fill='#334155'/>
+  <path d='M230 190 Q180 260 230 330' fill='none' stroke='#2563eb' stroke-width='6'/>
+  <path d='M230 330 l-18 -6 l10 -10 z' fill='#2563eb'/>
+  <path d='M620 180 L930 180 L930 330 L620 330 Z' fill='#ffffff' stroke='#cbd5e1'/>
+  <text x='645' y='225' font-family='Arial' font-size='24' fill='#0f172a'>• Keep chest facing forward</text>
+  <text x='645' y='260' font-family='Arial' font-size='24' fill='#0f172a'>• Bend sideways slowly</text>
+  <text x='645' y='295' font-family='Arial' font-size='24' fill='#0f172a'>• Return to neutral each rep</text>
 </svg>
