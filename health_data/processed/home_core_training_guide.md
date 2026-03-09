@@ -38,7 +38,7 @@ Build a stronger, more controlled core at home with minimal equipment, while sup
 **Form cues:** Keep your lower back pinned to the floor the entire rep. If it lifts, shorten your range of motion. Don't rush — the challenge is the control, not the speed.
 
 **Guide image:**
-![Dead Bug guide](./home_core_training_guide_images/dead_bug.svg)
+![Dead Bug guide](./home_core_training_guide_images/dead_bug.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ Build a stronger, more controlled core at home with minimal equipment, while sup
 **Form cues:** The movement comes from your abs pulling your pelvis up, not from swinging your legs. Slow the lowering phase down — that's where most of the work happens.
 
 **Guide image:**
-![Bench Reverse Crunch guide](./home_core_training_guide_images/bench_reverse_crunch.svg)
+![Bench Reverse Crunch guide](./home_core_training_guide_images/bench_reverse_crunch.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Build a stronger, more controlled core at home with minimal equipment, while sup
 **Form cues:** Rotate your whole torso, not just your arms. Keep your feet light or slightly elevated to increase the challenge. If your lower back rounds, reduce the lean angle.
 
 **Guide image:**
-![Russian Twist guide](./home_core_training_guide_images/russian_twist.svg)
+![Russian Twist guide](./home_core_training_guide_images/russian_twist.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ Build a stronger, more controlled core at home with minimal equipment, while sup
 **Form cues:** This is a pure side bend — no twisting or forward lean. Go lighter than you think; slow reps with full range beat heavy, sloppy ones. Keep your head in line with your spine throughout.
 
 **Guide image:**
-![Dumbbell Side Bend guide](./home_core_training_guide_images/dumbbell_side_bend.svg)
+![Dumbbell Side Bend guide](./home_core_training_guide_images/dumbbell_side_bend.jpg)
 
 ---
 
@@ -152,6 +152,14 @@ Done.
 ## Notes for Your Training Context
 - Given your training frequency and badminton, this plan is intentionally low-fatigue and recovery-friendly.
 - Consistency 2–3×/week beats occasional hard sessions. Pair with your fat-loss nutrition for the best results.
+
+---
+
+## Image Sources (Web)
+- Dead Bug image: https://www.pexels.com/photo/man-in-black-shorts-and-blue-sports-shoes-doing-sit-ups-1552242/
+- Bench Reverse Crunch image: https://www.pexels.com/photo/woman-in-black-sports-bra-and-black-leggings-doing-yoga-414029/
+- Russian Twist image: https://www.pexels.com/photo/woman-doing-yoga-416778/
+- Dumbbell Side Bend image: https://www.pexels.com/photo/woman-doing-abs-workout-2261477/
 
 ---
 
