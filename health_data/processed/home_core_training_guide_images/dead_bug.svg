@@ -1,19 +1,95 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='1000' height='600' viewBox='0 0 1000 600'>
+  <!-- Dead Bug — original illustration, CC0 public domain dedication -->
   <rect width='100%' height='100%' fill='#f1f5f9'/>
-  <text x='40' y='55' font-family='Arial' font-size='34' fill='#0f172a'>Dead Bug (human depiction)</text>
-  <rect x='80' y='390' width='520' height='18' rx='9' fill='#94a3b8'/>
-  <ellipse cx='320' cy='320' rx='120' ry='55' fill='#1e293b'/>
-  <circle cx='210' cy='290' r='28' fill='#f2c7a3'/>
-  <rect x='300' y='240' width='90' height='70' rx='35' fill='#1e293b'/>
-  <rect x='155' y='230' width='24' height='90' rx='12' fill='#f2c7a3'/>
-  <rect x='146' y='205' width='70' height='24' rx='12' fill='#f2c7a3' transform='rotate(-28 146 205)'/>
-  <rect x='410' y='315' width='95' height='24' rx='12' fill='#f2c7a3' transform='rotate(38 410 315)'/>
-  <rect x='495' y='360' width='95' height='26' rx='13' fill='#f2c7a3' transform='rotate(43 495 360)'/>
-  <rect x='340' y='360' width='90' height='26' rx='13' fill='#f2c7a3' transform='rotate(-35 340 360)'/>
-  <rect x='420' y='315' width='90' height='28' rx='14' fill='#334155'/>
-  <rect x='340' y='355' width='90' height='28' rx='14' fill='#334155'/>
-  <path d='M620 180 L930 180 L930 330 L620 330 Z' fill='#ffffff' stroke='#cbd5e1'/>
-  <text x='645' y='225' font-family='Arial' font-size='24' fill='#0f172a'>• Keep lower back gently pressed down</text>
-  <text x='645' y='260' font-family='Arial' font-size='24' fill='#0f172a'>• Extend opposite arm + leg slowly</text>
-  <text x='645' y='295' font-family='Arial' font-size='24' fill='#0f172a'>• Exhale on return</text>
+  <text x='40' y='55' font-family='Arial' font-size='34' fill='#0f172a'>Dead Bug — Active Position</text>
+
+  <!-- Mat -->
+  <rect x='48' y='462' width='562' height='18' rx='8' fill='#374151'/>
+  <rect x='48' y='462' width='562' height='6' rx='3' fill='#4b5563' opacity='0.5'/>
+
+  <!-- Figure shadow -->
+  <ellipse cx='345' cy='469' rx='245' ry='7' fill='#9ca3af' opacity='0.3'/>
+
+  <!-- ── HEAD ── -->
+  <circle cx='150' cy='424' r='40' fill='#f2b998'/>
+  <!-- Hair — dark cap on top/back -->
+  <path d='M 113 422 Q 112 382 150 385 Q 188 382 190 418' fill='#2a1a0e'/>
+  <!-- Eye (side profile — left eye) -->
+  <ellipse cx='136' cy='416' rx='5' ry='6' fill='#1f2937'/>
+  <ellipse cx='135' cy='414' rx='2' ry='2.5' fill='#fff' opacity='0.55'/>
+  <!-- Nose (profile) -->
+  <path d='M 122 422 Q 116 428 120 432' stroke='#c89070' stroke-width='2' fill='none' stroke-linecap='round'/>
+  <!-- Ear (visible on right side of head in side view) -->
+  <ellipse cx='167' cy='436' rx='9' ry='14' fill='#e8a882'/>
+  <ellipse cx='168' cy='436' rx='5' ry='9' fill='#d4906a' opacity='0.4'/>
+
+  <!-- NECK -->
+  <line x1='186' y1='436' x2='212' y2='442' stroke='#f2b998' stroke-width='22' stroke-linecap='round'/>
+
+  <!-- TORSO — workout shirt (blue), lying horizontal, back on mat -->
+  <ellipse cx='332' cy='438' rx='130' ry='27' fill='#2563eb'/>
+  <!-- Shirt neckline detail -->
+  <ellipse cx='215' cy='428' rx='18' ry='10' fill='#1d4ed8'/>
+  <!-- Shirt fold/highlight -->
+  <ellipse cx='332' cy='430' rx='90' ry='10' fill='#3b82f6' opacity='0.35'/>
+
+  <!-- PELVIS / SHORTS — dark navy -->
+  <ellipse cx='460' cy='446' rx='38' ry='26' fill='#1e3a5c'/>
+
+  <!-- ── LEFT ARM: extended BACK — overhead behind head, near mat ── -->
+  <!-- Upper arm (shirt sleeve) -->
+  <line x1='218' y1='427' x2='148' y2='445' stroke='#2563eb' stroke-width='27' stroke-linecap='round'/>
+  <!-- Elbow joint -->
+  <circle cx='148' cy='445' r='13' fill='#1d4ed8'/>
+  <!-- Forearm (skin) -->
+  <line x1='148' y1='445' x2='75' y2='456' stroke='#f2b998' stroke-width='21' stroke-linecap='round'/>
+  <!-- Hand -->
+  <ellipse cx='64' cy='458' rx='14' ry='11' fill='#f2b998'/>
+  <!-- Motion arrow: extension direction -->
+  <polygon points='44,453 22,458 44,463' fill='#ef4444'/>
+  <text x='10' y='478' font-family='Arial' font-size='13' fill='#ef4444'>←</text>
+
+  <!-- ── RIGHT ARM: pointing UP toward ceiling ── -->
+  <!-- Upper arm (shirt sleeve) -->
+  <line x1='235' y1='423' x2='240' y2='326' stroke='#2563eb' stroke-width='27' stroke-linecap='round'/>
+  <!-- Elbow joint -->
+  <circle cx='240' cy='326' r='13' fill='#1d4ed8'/>
+  <!-- Forearm (skin) -->
+  <line x1='240' y1='326' x2='246' y2='230' stroke='#f2b998' stroke-width='21' stroke-linecap='round'/>
+  <!-- Hand -->
+  <ellipse cx='247' cy='218' rx='13' ry='16' fill='#f2b998'/>
+
+  <!-- ── LEFT LEG: BENT — thigh up, shin horizontal to right ── -->
+  <!-- Thigh (shorts) -->
+  <line x1='450' y1='445' x2='463' y2='322' stroke='#1e3a5c' stroke-width='33' stroke-linecap='round'/>
+  <!-- Knee -->
+  <circle cx='463' cy='322' r='16' fill='#1a3050'/>
+  <!-- Shin (skin) -->
+  <line x1='463' y1='322' x2='558' y2='340' stroke='#f2b998' stroke-width='26' stroke-linecap='round'/>
+  <!-- Shoe -->
+  <ellipse cx='574' cy='344' rx='27' ry='15' fill='#374151'/>
+  <ellipse cx='580' cy='340' rx='14' ry='8' fill='#4b5563'/>
+
+  <!-- ── RIGHT LEG: EXTENDED — nearly horizontal, toward floor ── -->
+  <!-- Thigh (shorts) -->
+  <line x1='465' y1='455' x2='596' y2='458' stroke='#1e3a5c' stroke-width='33' stroke-linecap='round'/>
+  <!-- Knee -->
+  <circle cx='596' cy='458' r='16' fill='#1a3050'/>
+  <!-- Shin (skin) -->
+  <line x1='596' y1='458' x2='718' y2='460' stroke='#f2b998' stroke-width='26' stroke-linecap='round'/>
+  <!-- Shoe -->
+  <ellipse cx='733' cy='460' rx='27' ry='15' fill='#374151'/>
+  <ellipse cx='738' cy='456' rx='14' ry='8' fill='#4b5563'/>
+  <!-- Motion arrow: extension direction -->
+  <polygon points='762,455 784,460 762,465' fill='#ef4444'/>
+
+  <!-- ══ CUE BOX ══ -->
+  <rect x='620' y='175' width='325' height='160' rx='8' fill='#ffffff' stroke='#cbd5e1' stroke-width='1.5'/>
+  <text x='645' y='214' font-family='Arial' font-size='22' fill='#0f172a'>• Lower back stays on mat</text>
+  <text x='645' y='250' font-family='Arial' font-size='22' fill='#0f172a'>• Extend opposite arm + leg</text>
+  <text x='645' y='286' font-family='Arial' font-size='22' fill='#0f172a'>• Exhale on return</text>
+  <text x='645' y='324' font-family='Arial' font-size='16' fill='#6b7280'>Red arrows = extension direction</text>
+
+  <!-- Attribution -->
+  <text x='40' y='587' font-family='Arial' font-size='13' fill='#9ca3af'>Original illustration — CC0 public domain</text>
 </svg>

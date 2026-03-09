@@ -1,18 +1,97 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='1000' height='600' viewBox='0 0 1000 600'>
+  <!-- Bench Reverse Crunch — original illustration, CC0 public domain dedication -->
   <rect width='100%' height='100%' fill='#f1f5f9'/>
-  <text x='40' y='55' font-family='Arial' font-size='34' fill='#0f172a'>Bench Reverse Crunch (human depiction)</text>
-  <rect x='90' y='375' width='520' height='22' rx='11' fill='#64748b'/>
-  <rect x='120' y='397' width='18' height='90' fill='#475569'/>
-  <rect x='560' y='397' width='18' height='90' fill='#475569'/>
-  <ellipse cx='315' cy='328' rx='120' ry='50' fill='#1e293b'/>
-  <circle cx='205' cy='295' r='27' fill='#f2c7a3'/>
-  <rect x='318' y='280' width='92' height='58' rx='29' fill='#1e293b'/>
-  <rect x='395' y='320' width='78' height='26' rx='13' fill='#f2c7a3' transform='rotate(-28 395 320)'/>
-  <rect x='455' y='285' width='70' height='24' rx='12' fill='#f2c7a3' transform='rotate(-35 455 285)'/>
-  <rect x='398' y='324' width='80' height='28' rx='14' fill='#334155' transform='rotate(-28 398 324)'/>
-  <rect x='458' y='292' width='72' height='28' rx='14' fill='#334155' transform='rotate(-35 458 292)'/>
-  <path d='M620 180 L930 180 L930 330 L620 330 Z' fill='#ffffff' stroke='#cbd5e1'/>
-  <text x='645' y='225' font-family='Arial' font-size='24' fill='#0f172a'>• Curl knees toward chest</text>
-  <text x='645' y='260' font-family='Arial' font-size='24' fill='#0f172a'>• Lift pelvis slightly at top</text>
-  <text x='645' y='295' font-family='Arial' font-size='24' fill='#0f172a'>• Lower with control, no swing</text>
+  <text x='40' y='55' font-family='Arial' font-size='34' fill='#0f172a'>Bench Reverse Crunch — Top of Rep</text>
+
+  <!-- ── BENCH ── -->
+  <!-- Main bench surface -->
+  <rect x='88' y='370' width='514' height='22' rx='8' fill='#92400e'/>
+  <!-- Bench highlight -->
+  <rect x='88' y='370' width='514' height='8' rx='4' fill='#b45309' opacity='0.6'/>
+  <!-- Left bench leg pair -->
+  <rect x='108' y='392' width='16' height='110' rx='4' fill='#78350f'/>
+  <rect x='132' y='392' width='16' height='110' rx='4' fill='#78350f'/>
+  <rect x='108' y='492' width='40' height='10' rx='3' fill='#78350f'/>
+  <!-- Right bench leg pair -->
+  <rect x='556' y='392' width='16' height='110' rx='4' fill='#78350f'/>
+  <rect x='580' y='392' width='16' height='110' rx='4' fill='#78350f'/>
+  <rect x='556' y='492' width='40' height='10' rx='3' fill='#78350f'/>
+
+  <!-- Figure shadow -->
+  <ellipse cx='330' cy='376' rx='215' ry='6' fill='#9ca3af' opacity='0.3'/>
+
+  <!-- ── HEAD ── (lying on bench, head on left) -->
+  <circle cx='155' cy='335' r='40' fill='#f2b998'/>
+  <!-- Hair -->
+  <path d='M 118 333 Q 116 293 155 296 Q 193 293 196 328' fill='#2a1a0e'/>
+  <!-- Eye (side profile) -->
+  <ellipse cx='140' cy='326' rx='5' ry='6' fill='#1f2937'/>
+  <ellipse cx='139' cy='324' rx='2' ry='2.5' fill='#fff' opacity='0.55'/>
+  <!-- Nose -->
+  <path d='M 126 332 Q 120 338 124 342' stroke='#c89070' stroke-width='2' fill='none' stroke-linecap='round'/>
+  <!-- Ear -->
+  <ellipse cx='172' cy='347' rx='9' ry='14' fill='#e8a882'/>
+
+  <!-- NECK -->
+  <line x1='192' y1='348' x2='218' y2='354' stroke='#f2b998' stroke-width='22' stroke-linecap='round'/>
+
+  <!-- TORSO — shirt, lying on bench -->
+  <ellipse cx='342' cy='357' rx='132' ry='22' fill='#2563eb'/>
+  <!-- Shirt highlight -->
+  <ellipse cx='342' cy='350' rx='95' ry='9' fill='#3b82f6' opacity='0.35'/>
+  <!-- Neckline -->
+  <ellipse cx='222' cy='346' rx='18' ry='10' fill='#1d4ed8'/>
+
+  <!-- PELVIS (slightly lifted off bench at top of movement) -->
+  <ellipse cx='466' cy='354' rx='36' ry='22' fill='#1e3a5c'/>
+  <!-- Upward curl indicator: subtle arc -->
+  <path d='M 432 355 Q 466 338 500 355' fill='none' stroke='#3b82f6' stroke-width='3' stroke-dasharray='5,4' opacity='0.7'/>
+
+  <!-- ── ARMS: gripping bench behind head ── -->
+  <!-- Left arm (near arm) — upper arm going back-left -->
+  <line x1='226' y1='346' x2='172' y2='356' stroke='#2563eb' stroke-width='27' stroke-linecap='round'/>
+  <circle cx='172' cy='356' r='13' fill='#1d4ed8'/>
+  <!-- Forearm angling down to grip bench edge -->
+  <line x1='172' y1='356' x2='122' y2='368' stroke='#f2b998' stroke-width='21' stroke-linecap='round'/>
+  <!-- Hand gripping bench -->
+  <ellipse cx='112' cy='372' rx='16' ry='10' fill='#f2b998'/>
+
+  <!-- Right arm (far arm, slightly offset) -->
+  <line x1='232' y1='348' x2='178' y2='360' stroke='#2563eb' stroke-width='24' stroke-linecap='round'/>
+  <circle cx='178' cy='360' r='11' fill='#1d4ed8'/>
+  <line x1='178' y1='360' x2='128' y2='374' stroke='#f2b998' stroke-width='18' stroke-linecap='round'/>
+
+  <!-- ── LEGS: knees drawn to chest (top of reverse crunch) ── -->
+  <!-- Left thigh — going up and toward chest -->
+  <line x1='455' y1='352' x2='438' y2='228' stroke='#1e3a5c' stroke-width='33' stroke-linecap='round'/>
+  <!-- Left knee -->
+  <circle cx='438' cy='228' r='16' fill='#1a3050'/>
+  <!-- Left shin — curling back, hanging from knee -->
+  <line x1='438' y1='228' x2='415' y2='350' stroke='#f2b998' stroke-width='26' stroke-linecap='round'/>
+  <!-- Left shoe -->
+  <ellipse cx='413' cy='364' rx='25' ry='14' fill='#374151'/>
+  <ellipse cx='418' cy='360' rx='13' ry='7' fill='#4b5563'/>
+
+  <!-- Right thigh (offset for depth) -->
+  <line x1='470' y1='357' x2='453' y2='233' stroke='#1e3a5c' stroke-width='29' stroke-linecap='round'/>
+  <!-- Right knee -->
+  <circle cx='453' cy='233' r='14' fill='#1a3050'/>
+  <!-- Right shin -->
+  <line x1='453' y1='233' x2='430' y2='355' stroke='#f2b998' stroke-width='22' stroke-linecap='round'/>
+  <!-- Right shoe -->
+  <ellipse cx='428' cy='368' rx='22' ry='12' fill='#374151'/>
+
+  <!-- Upward motion arrow -->
+  <polygon points='510,200 517,176 524,200' fill='#ef4444'/>
+  <text x='530' y='196' font-family='Arial' font-size='14' fill='#ef4444'>pelvis curls up</text>
+
+  <!-- ══ CUE BOX ══ -->
+  <rect x='620' y='175' width='325' height='160' rx='8' fill='#ffffff' stroke='#cbd5e1' stroke-width='1.5'/>
+  <text x='645' y='214' font-family='Arial' font-size='22' fill='#0f172a'>• Curl knees toward chest</text>
+  <text x='645' y='250' font-family='Arial' font-size='22' fill='#0f172a'>• Lift pelvis slightly at top</text>
+  <text x='645' y='286' font-family='Arial' font-size='22' fill='#0f172a'>• Lower with control</text>
+  <text x='645' y='322' font-family='Arial' font-size='16' fill='#6b7280'>Grip bench for stability only</text>
+
+  <!-- Attribution -->
+  <text x='40' y='587' font-family='Arial' font-size='13' fill='#9ca3af'>Original illustration — CC0 public domain</text>
 </svg>

@@ -152,3 +152,16 @@ Done.
 ## Notes for Your Training Context
 - Given your training frequency and badminton, this plan is intentionally low-fatigue and recovery-friendly.
 - Consistency 2–3×/week beats occasional hard sessions. Pair with your fat-loss nutrition for the best results.
+
+---
+
+## Image Attribution
+
+All guide illustrations in `home_core_training_guide_images/` are original artwork created for this document and dedicated to the **public domain** under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) licence. No attribution is required, but the source is this repository.
+
+| File | Exercise depicted |
+|------|------------------|
+| `dead_bug.svg` | Dead Bug — active position (opposite arm/leg extended) |
+| `bench_reverse_crunch.svg` | Bench Reverse Crunch — top of rep (knees to chest, pelvis curled) |
+| `russian_twist.svg` | Dumbbell Russian Twist — mid-rotation |
+| `dumbbell_side_bend.svg` | Dumbbell Side Bend — right-side lateral bend |
